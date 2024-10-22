@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+c24fb03ae5d133ca58240a2415bb84ba plugin/NoiseParticles_artefacts/JuceLibraryCode/NoiseParticles_AU/PkgInfo
+c2f05827e57ea3b4e06388b4374c2c9a plugin/NoiseParticles_artefacts/JuceLibraryCode/NoiseParticles_Standalone/PkgInfo
+1d59b65c7c529521d0227fbb8e74a7c9 plugin/NoiseParticles_artefacts/JuceLibraryCode/NoiseParticles_VST3/PkgInfo
